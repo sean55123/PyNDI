@@ -1,0 +1,10 @@
+INPUT: Fuzzy 2R_HX(RUN9).inm
+MODNAME: apmain
+RUNID: Fuzzy 2R_HX(RUN9)
+NEW_RUNID: Fuzzy 2R_HX(RUN9)
+OLD_RUNID: Fuzzy 2R_HX(RUN9)
+PDF: Fuzzy 2R_HX(RUN9).appdf
+USERNAME: PJ
+XMOD: C:\Program Files\AspenTech\Aspen Plus V12.1\Engine\xeq\apmain
+SPONLY:
+DBCONN: _0300uod.ads
