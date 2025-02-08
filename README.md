@@ -31,13 +31,13 @@ The primary developer is Pei-Jhen Wu with support from the following contributor
 
 ## Citing
 ``` sourceCode
-@article{Safety Considerations in CO2 Conversion: Production of Glycerol Carbonate via an Indirect Pathway,
+@article{WuChiuYu2025,
 author = {PJ. Wu, HH. Chiu, BY. Yu},
 journal = {Journal of Industrial and Engineering Chemistry},
 pages = {},
-title = {},
+title = {Safety Considerations in CO2 Conversion: Production of Glycerol Carbonate via an Indirect Pathway},
 volume = {},
-year = {},
-doi = {}
+year = {2025},
+doi = {https://doi.org/10.1016/j.jiec.2024.12.063}
 }
 ```
